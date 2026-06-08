@@ -10,7 +10,6 @@ import sys
 import time
 import os
 import datetime
-import threading
 import msvcrt  # Windows keyboard input
 
 # ── ASCII digit segments (7-segment style, 5 rows tall) ──────────────────────
